@@ -67,17 +67,6 @@ npm start
 - AI-based expense predictions and suggestions
 - Graphical reports for financial planning
 
-## 📲 Mobile Compatibility
-The application is fully responsive and optimized for mobile devices. A dedicated mobile app version is planned for future releases.
-
-## 🤝 Contributing
-Feel free to submit issues or fork the repository and send pull requests. Contributions are welcome!
-
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 🌟 Show Your Support
 If you like this project, please ⭐ the repository!
 
-## 📧 Contact
-For any inquiries, feel free to reach out at **your-email@example.com** or create an issue in the repository.
